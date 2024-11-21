@@ -2,7 +2,7 @@
 
 Este projeto implementa um jogo de Ping Pong simples utilizando a biblioteca Pygame em Python. O jogo permite que o usuário jogue contra um oponente controlado por outro usuário, e os controles são feitos através do teclado.
 
-#Funcionalidades
+# Funcionalidades
 Jogo simples de Ping Pong com controle para dois jogadores.
 Pontuação de ambos os jogadores visível na tela.
 A bola se move automaticamente e quica nas bordas da tela.
