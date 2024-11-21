@@ -1,4 +1,4 @@
-# Descrição do projeto
+# Descrição do projeto-Jogo PONG
 
 Este projeto implementa um jogo de Ping Pong simples utilizando a biblioteca Pygame em Python. O jogo permite que o usuário jogue contra um oponente controlado por outro usuário, e os controles são feitos através do teclado.
 
