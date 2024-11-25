@@ -137,3 +137,38 @@ Uso de classes para organizar o código.
 Controle do tempo e atualização de quadros em jogos com pygame.
 Implementação de detecção de colisão e física básica.
 Trabalho em equipe e divisão de responsabilidades para concluir um projeto.
+
+
+#Check list
+Checklist para o Projeto de Algoritmo em Computabilidade e Complexidade de Algoritmo<br/>
+Fase 1: Análise [ Pedro e Luiza] <br/>
+[Luiza] Problema selecionado e definido claramente.<br/>
+[Luiza]  Compreensão aprofundada da natureza e desafios do problema.<br/>
+[Pedro] Modelo matemático ou teórico desenvolvido para representar o problema.<br/>
+Fase 2: Planejamento [Pedro e Luiza]<br/>
+[Pedro] Objetivos do algoritmo definidos com clareza.<br/>
+[Pedro] Métricas para avaliação de eficiência do algoritmo estabelecidas.<br/>
+[Pedro] Estratégia geral de resolução do problema proposta.<br/>
+[Pedro] Subproblemas identificados e divididos, se aplicável.<br/>
+[Luiza] Estrutura geral do algoritmo esboçada.<br/>
+[Luiza] Casos limite ou situações especiais identificados.<br/>
+[Luiza] Análise teórica realizada para verificar a correção do algoritmo.<br/>
+Fase 3: Desenho [Luiza]<br/>
+[Luiza] Análise de complexidade realizada para avaliar a eficiência teórica do algoritmo.<br/>
+[Pedro] Pontos críticos do algoritmo identificados para otimização, se necessário.<br/>
+Fase 4: Programação e Teste [ Geovana] <br/>
+[Geovana] Algoritmo traduzido com precisão em código de programação.<br/>
+[Geovana] Código de programação escrito de forma clara e organizada.<br/>
+[Geovana]  Testes rigorosos realizados em uma variedade de casos de teste.<br/>
+[Geovana] Casos limite e situações especiais testados.<br/>
+[Geovana] Erros e problemas durante o teste de programa identificados e corrigidos.<br/>
+Documentação e Avaliação do Projeto [ ] <br/>
+[Diogo ] Documentação completa, incluindo especificação do algoritmo e análise de complexidade.<br/>
+[Diogo] Documentação revisada para clareza e rigor técnico.<br/>
+[Maria  Victoria ] Avaliação da eficácia do algoritmo em termos de tempo de execução, uso de recursos e precisão na resolução do problema.<br/>
+[Maria  Victoria] Avaliação da colaboração da equipe e cumprimento dos prazos.<br/>
+Apresentação e Conclusão do Projeto [ ] <br/>
+[Maria  Victoria] Apresentação do projeto preparada com informações claras e objetivas.<br/>
+[Maria  Victoria] Conclusões do projeto destacando os resultados e aprendizados.<br/>
+[Diogo ] Discussão sobre o projeto e respostas a perguntas da audiência.<br/>
+Este checklist pode ser usado como um guia para garantir que todas as etapas do projeto sejam concluídas de forma eficaz e que o projeto seja avaliado de acordo com critérios específicos de sucesso. <br/>
