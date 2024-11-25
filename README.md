@@ -142,7 +142,7 @@ Implementação de detecção de colisão e física básica.
 Trabalho em equipe e divisão de responsabilidades para concluir um projeto.
 
 
-#Check list
+# Check list
 Checklist para o Projeto de Algoritmo em Computabilidade e Complexidade de Algoritmo<br/>
 Fase 1: Análise [ Pedro e Luiza] <br/>
 [Luiza] Problema selecionado e definido claramente.<br/>
