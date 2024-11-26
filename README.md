@@ -9,7 +9,7 @@ A bola se move automaticamente e quica nas bordas da tela.
 O jogo termina quando um dos jogadores atingir um número máximo de pontos (pode ser ajustado no código).
 
 ## Referência
-https://youtu.be/vVGTZlnnX3U?si=F_jLt_syPnnVzShy
+Inspirado em: https://youtu.be/vVGTZlnnX3U?si=F_jLt_syPnnVzShy
 
 ## PRÉ-REQUISITO
 ---
